@@ -1,0 +1,1 @@
+{"cutoff_A": 5.0, "n_rbf": 32, "include_pos": true, "node_props": ["Z", "X", "mass", "mendeleev_no", "atomic_radius"], "index_file": "index.csv.gz", "file_format": ".npz"}

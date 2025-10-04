@@ -1,0 +1,1 @@
+{"cutoff_A": 4.0, "n_rbf": 32, "node_encoding": "one_hot_94", "target": "formation_energy_per_atom", "index_file": "index.csv.gz"}

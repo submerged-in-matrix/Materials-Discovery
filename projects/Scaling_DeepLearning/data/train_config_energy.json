@@ -1,0 +1,1 @@
+{"node_dim": 94, "edge_dim": 32, "hidden": 256, "layers": 6, "batch_graphs": 32, "lr": 0.000555, "epochs": 100, "target": "formation_energy_per_atom", "cutoff_A": 4.0, "graphs_dir": "data/graphs_npz_energy", "index_file": "index.csv.gz", "split_file": "split_ids_energy.json"}
